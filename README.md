@@ -16,14 +16,14 @@ Knowledge Representation and Extraction (Knowledge Management) | A. Gangemi | [l
 Information Modelling and Web Technologies | F. Vitali | [link]() | **Dead Lovers Society** | [repository](https://github.com/deadloversociety/imwt22), [website](https://deadloversociety.github.io/imwt22/)
 Museology, Museography and Virtual Environments (Digital Heritage and Multimedia) | S. Caraceni | [link]() | / | /
 Interaction Media Design (Digital Heritage and Multimedia) | S. Pescarin | [link]() | **WanderLOST** | [repository](https://github.com/GinevraBotto/WanderLost), [design brief](https://github.com/GinevraBotto/WanderLost/blob/main/WL_DesignBrief.pdf)
-Digital Text in the Humanities: Theories, Methodologies and Applications | T. Mancinelli | [link]() | **Changing Lenses** | [link]() | [repository](https://github.com/digiMof/gbggold), [website](https://digimof.github.io/gbggold/)
+Digital Text in the Humanities: Theories, Methodologies and Applications | T. Mancinelli | [link]() | **Changing Lenses** | [repository](https://github.com/digiMof/gbggold), [website](https://digimof.github.io/gbggold/)
 
 ### A.a. 2022-2023
 Course | Professor(s) | Contents | Project | Project links
 --- | --- | --- | --- | ---
 Natural Language Processing | F. Tamburini | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/443751) | / | /
 Semantic Digital Libraries | G. Colavizza | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424786) | **Computing Melville** | [repository](https://github.com/OrsolaMBorrini/ComputingMelville), [website](https://orsolamborrini.github.io/ComputingMelville/)
-Business Strategy and Innovation in Cultural Industries | A. C. Lo Verso | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424650) | Case study on Damien Hirst | [Case study report]()
+Business Strategy and Innovation in Cultural Industries | A. C. Lo Verso | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424650) | **Damien Hirst and the Contemporary Art Market. Final Course Report** | [Case study report]()
 Open Access and Digital Ethics | M. Palmirani | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424645) | **Blessed Be the Fruit** | [repository](https://github.com/OrsolaMBorrini/blessedfruit), [website](https://orsolamborrini.github.io/blessedfruit/)
 Information Visualization | M. Daquino | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467047) | *[tbd]* | *[tbd]*
 
