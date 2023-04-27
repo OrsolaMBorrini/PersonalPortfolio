@@ -1,7 +1,8 @@
-# PersonalPortfolio
-This repository contains a portfolio of all the projects I have worked on, both personal and within the "Digital Humanities and Digital Knowledge" Master degree at Alma Mater Studiorum - Università di Bologna.
+# Personal Portfolio
+This repository contains a portfolio of all the projects I have worked on, both personal and within the [**"Digital Humanities and Digital Knowledge" Master degree**](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at Alma Mater Studiorum - Università di Bologna.
 
-For what concerns the latter, a fully detailed "study plan" is also made available, comprising all the courses attended during the 2-years master degree (when the course did not require the production of any project, the corresponding cell in the table will contain /).
+
+A fully detailed "study plan" is also made available, comprising all the courses attended during the 2-years Master degree (when the course did not require the production of any project, the corresponding cell in the table will contain `/`).
 
 ## Digital Humanities and Digital Knowledge (University of Bologna)
 ### A.a. 2021-2022
@@ -25,7 +26,7 @@ Natural Language Processing | F. Tamburini | [link](https://www.unibo.it/en/teac
 Semantic Digital Libraries | G. Colavizza | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424786) | **Computing Melville** | [repository](https://github.com/OrsolaMBorrini/ComputingMelville), [website](https://orsolamborrini.github.io/ComputingMelville/)
 Business Strategy and Innovation in Cultural Industries | A. C. Lo Verso | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424650) | **Damien Hirst and the Contemporary Art Market. Final Course Report** | [case study report](https://github.com/OrsolaMBorrini/PersonalPortfolio/blob/main/BorrinietAl_BusinessReport.pdf)
 Open Access and Digital Ethics | M. Palmirani | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424645) | **Blessed Be the Fruit** | [repository](https://github.com/OrsolaMBorrini/blessedfruit), [website](https://orsolamborrini.github.io/blessedfruit/)
-Information Visualization | M. Daquino | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467047) | [repository](https://github.com/ahsanv101/ProjectGaze) | [website](https://ahsanv101.github.io/ProjectGaze/)
+Information Visualization | M. Daquino | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467047) | **Through the Gaze**  | [repository](https://github.com/ahsanv101/ProjectGaze), [website](https://ahsanv101.github.io/ProjectGaze/)
 Gender Studies | R. Monticelli | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/402952) | / | /
 Laboratory | F. Tomasi | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/479323) | *[tbd]* | *[tbd]*
 
