@@ -25,7 +25,7 @@ Natural Language Processing | F. Tamburini | [link](https://www.unibo.it/en/teac
 Semantic Digital Libraries | G. Colavizza | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424786) | **Computing Melville** | [repository](https://github.com/OrsolaMBorrini/ComputingMelville), [website](https://orsolamborrini.github.io/ComputingMelville/)
 Business Strategy and Innovation in Cultural Industries | A. C. Lo Verso | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424650) | **Damien Hirst and the Contemporary Art Market. Final Course Report** | [case study report](https://github.com/OrsolaMBorrini/PersonalPortfolio/blob/main/BorrinietAl_BusinessReport.pdf)
 Open Access and Digital Ethics | M. Palmirani | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424645) | **Blessed Be the Fruit** | [repository](https://github.com/OrsolaMBorrini/blessedfruit), [website](https://orsolamborrini.github.io/blessedfruit/)
-Information Visualization | M. Daquino | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467047) | *[tbd]* | *[tbd]*
+Information Visualization | M. Daquino | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467047) | [repository](https://github.com/ahsanv101/ProjectGaze) | [website](https://ahsanv101.github.io/ProjectGaze/)
 Gender Studies | R. Monticelli | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/402952) | / | /
 Laboratory | F. Tomasi | [link](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/479323) | *[tbd]* | *[tbd]*
 
