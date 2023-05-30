@@ -1,6 +1,7 @@
 # Personal Portfolio
 This repository contains a portfolio of all the projects I have worked on, both personal and within the [**"Digital Humanities and Digital Knowledge" Master degree**](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at Alma Mater Studiorum - Università di Bologna.
 
+👨‍💻 You can check out my **online portfolio** [**here**](https://orsolamborrini.github.io/omb-portfolio/)!
 
 A fully detailed "study plan" is also made available, comprising all the courses attended during the 2-years Master degree (when the course did not require the production of any project, the corresponding cell in the table will contain `/`).
 
